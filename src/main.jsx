@@ -1,4 +1,4 @@
-import '../scss/main.scss'
+import 'raboni-styles/scss/main.scss'
 import ReactDOM from 'react-dom/client'
 import React from 'react'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
