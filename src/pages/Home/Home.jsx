@@ -5,7 +5,7 @@ const Home = () => {
     <>
       <div className="pr-page__content --f-center">
         <div className={styles["pr-page__home"]}>
-          <h1>Rabôni Styles</h1>
+          <h1 className="--flex-1">Rabôni Styles</h1>
           <p>
             Rabôni Styles é um conjunto de mixins e classes Sass reutilizáveis,
             desenvolvidos para facilitar a estilização de projetos web.            
