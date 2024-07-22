@@ -7,6 +7,7 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
+      'raboni-styles': path.resolve(__dirname, 'node_modules/raboni-styles')
     },
   },
   css: {

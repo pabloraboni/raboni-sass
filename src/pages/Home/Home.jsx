@@ -13,13 +13,7 @@ const Home = () => {
           <div className="pr-line --mg-20-0"></div>
           <h1>Como Usar</h1>
           <p>
-            1. **Importar Mixins no Seu Projeto**
-            <br />
-            <br />
-            Adicione o seguinte código ao seu arquivo Sass principal:
-            <br />
-            <br />
-            @import url('https://raw.githubusercontent.com/pabloraboni/raboni-styles/main/scss/mixins/_mixins.scss');
+            npm install raboni-styles
           </p>
         </div>
       </div>
