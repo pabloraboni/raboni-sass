@@ -13,7 +13,7 @@ export default defineConfig({
   css: {
     preprocessorOptions: {
       scss: {
-        additionalData: `@import "raboni-styles/scss/mixins/mixins";`,
+        additionalData: `@import "raboni-styles/scss/importMixins";`,
       },
     },
   },
